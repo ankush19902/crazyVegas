@@ -37,7 +37,9 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function() {
-        
+        setTimeout(function() {
+                   navigator.splashscreen.hide();
+                   }, 2000);
         window.location.href('');
       
     }
