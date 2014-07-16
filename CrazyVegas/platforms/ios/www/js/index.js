@@ -40,7 +40,7 @@ var app = {
         setTimeout(function() {
                    navigator.splashscreen.hide();
                    }, 2000);
-        window.location.href('');
+        window.location.href='http://www.google.com';
       
     }
 };
