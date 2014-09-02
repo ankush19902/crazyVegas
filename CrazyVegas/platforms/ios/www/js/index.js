@@ -40,7 +40,7 @@ var app = {
         setTimeout(function() {
                    navigator.splashscreen.hide();
                    }, 2000);
-        window.location.href='http://www.google.com';
+        window.location.href='http://mobile2.gameassists.co.uk/mobileweblobby/?lobbyname=crazyvegas&languagecode=en&bannerTag1=affiliate1&bannerTag2=&bannerTag3=&bannerTag4=&bannerTag5';
       
     }
 };
